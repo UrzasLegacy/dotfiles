@@ -15,5 +15,6 @@
         "py"
     ],
     "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
+    "python.testing.pytestEnabled": true,
+    "outline.collapseItems": "alwaysCollapse"
 }
